@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a8f1182-61b7-4160-8e94-629c8b8f61a1" name="Changes" comment="Uploading the completed Project">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="1a8f1182-61b7-4160-8e94-629c8b8f61a1" name="Changes" comment="Uploading the sc">
+      <change beforePath="$PROJECT_DIR$/system_screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/system_screenshot.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721661509444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Uploading the sc">
+      <option name="closed" value="true" />
+      <created>1721662400939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721662400939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uploading the completed Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploading the completed Project" />
+    <MESSAGE value="Uploading the sc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading the sc" />
   </component>
 </project>
