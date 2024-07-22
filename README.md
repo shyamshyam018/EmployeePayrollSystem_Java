@@ -2,7 +2,7 @@
 
 ![Employee Payroll System](system_screenshot.png)
 
-In this comprehensive Java project, we dive into the exciting world of Object-Oriented Programming (OOP) by building an Employee Payroll System from scratch. This project is designed to enhance your Java programming skills and solidify your understanding of fundamental OOP concepts.
+In this comprehensive Java project, we dive into the exciting world of Object-Oriented Programming (OOPS) by building an Employee Payroll System from scratch. This project is designed to enhance your Java programming skills and solidify your understanding of fundamental OOP concepts.
 
 ## 🔥 What I Learnt 🔥
 - ✅ Designing an Employee Payroll System using OOP principles.
